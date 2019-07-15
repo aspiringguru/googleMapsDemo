@@ -1,0 +1,19 @@
+
+
+google_streetview -s key=""
+
+google_streetview "46.414382", "10.013988"
+
+
+
+
+https://maps.googleapis.com/maps/api/streetview?parameters
+
+size=600x400
+heading
+fov=120
+pitch=
+
+
+
+pip install -U googlemaps
